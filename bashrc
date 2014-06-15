@@ -5,9 +5,6 @@
 
 # the basics
 
-
-# we always pass these to ls(1)
-
 # -------------------------------------------------------------------------
 # SHELL OPTIONS
 # -------------------------------------------------------------------------
@@ -15,7 +12,7 @@
 # fuck that you have new mail shit
 unset MAILCHECK
 
-#Awesome sauce command prompt!
+# awesome sauce command prompt!
 PS1="┌─\[\e[01;36m\]\h\[\e[00m\]:\[\e[1;37m\]\w\[\e[0m\]]\n└─╼"
 
 # -------------------------------------------------------------------------
@@ -29,6 +26,10 @@ export PATH=/usr/local/bin:$PATH
 test -d "$HOME/bin" &&
 PATH="$HOME/bin:$PATH"
 
+# put todo.sh on PATH
+test -d "$HOME/.dotfiles/bin/todo.txt_cli" &&
+PATH="$HOME/.dotfiles/bin/todo.txt_cli:$PATH"
+
 # -------------------------------------------------------------------------
 # ENVIRONMENT CONFIGURATION
 # -------------------------------------------------------------------------
@@ -41,7 +42,6 @@ HISTSIZE=10000
 # input stuff
 bind "set completion-ignore-case on" # note: bind used instead of sticking these in .inputrc
 bind "set show-all-if-ambiguous on"  # show list automatically, without double tap
-
 
 # -------------------------------------------------------------------------
 # PROMPT
@@ -75,6 +75,9 @@ alias weechat="weechat-curses"
 alias bms="bookmarksshow"
 alias bm="bookmark"
 
+# todo.txt aliases
+alias t="todo.sh"
+
 # -------------------------------------------------------------------------
 # FUNCTIONS
 # -------------------------------------------------------------------------
@@ -104,12 +107,10 @@ source `brew --repository`/Library/Contributions/brew_bash_completion.sh
 # LS
 # -------------------------------------------------------------------------
 
-
-
-
-
 alias ls="ls -G"        # list
 alias la="ls -Ga"       # list all, includes dot files
 alias ll="ls -Gl"       # long list, excludes dot files
 alias lla="ls -Gla"     # long list all, includes dot files
+
+
 
