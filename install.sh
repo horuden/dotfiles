@@ -6,9 +6,9 @@
 
 ########## Variables
 
-dir=~/.dotfiles                    # dotfiles directory
+dir=~/.dotfiles/etc                    # dotfiles directory
 olddir=~/.dotfiles_old             # old dotfiles backup directory
-files="bashrc bash_profile functions tmux.conf weechat vimrc vim zshrc oh-my-zsh"    # list of files/folders to symlink in homedir
+files="bashrc bash_profile elinks.conf functions tmux.conf weechat vimrc vim zshrc oh-my-zsh"    # list of files/folders to symlink in homedir
 
 ##########
 
