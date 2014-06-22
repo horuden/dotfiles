@@ -1,0 +1,232 @@
+2014-01-23 18:55:15	-->	horuden (~horuden@173.240.36.148) has joined #crunchbang
+2014-01-23 18:55:15	--	Topic for #crunchbang is "Welcome to #! support channel - WEB: http://crunchbang.org/  -!- RULES: http://bit.ly/XFta96 -!- PASTE: http://crunchbanglinux.org/pastebin/ -!- OT ##crunchbang"
+2014-01-23 18:55:15	--	Topic set by dizzie (~dizzie@pdpc/supporter/active/dizzie) on Fri, 01 Nov 2013 20:31:23
+2014-01-23 18:55:15	--	Nicks #crunchbang: [@ChanServ [ui] adium aiBo` alecz andril anyoneuno b3n_ bkilloran bline79 blip2 blitzed bocajnotnef Brainspackle BrouetteNC c0ded cbdev cjva CLIfan codex1 CrazyJoeDavola crfd02354 crippledmonk cyrusdavid czardoz_ damentz dangerousbrother daswort debris` Deck` DeeEff deltab Demannu demure Dicklas diffra Dioreus dirtydawg djp duane dubious duggiefresh Elemeno-work emk entiat_blues espiral fongaboo FreeSpencer Frshbeetz garnus gkubed gremble gynter Halts HappyLoaf harrow harski heedypo hobblinharry horuden igufi ikonia jamesprice jasonwert jerd jNam_home jswagner junkmechanic juser Kabaka kamal_ Katharsis kbmonkey kilian kossy Kowalczyk kriskropd kuroishi kwyjibo^ Kyzz laydros lil_data_ loans lubiana luillee Lunchb0x Maltin MannDude Mapley Marshall_Banana maya- mgodzilla MHQ-Scotty milieu_ moetunes monoxide_13 morlog MrPPS MunkyBone Mushy n2o4 neodiablow nesthib NetCraWlr nicedice Noah0504 notleigh novik noxidious nullfaith nullm0dem ohama ohhmaar oldpet Onia onizu oozemeister orbea ovrstorm Paavi2_0 ParkerR PepperoniPizza pet2001 petracvv pksunkara_ plerx pnd4 PPH rapzo regulate rHermes Robchew Romer Rurd2di ruukasu salam4ik sanderr scrollback1 sephiap shawnbon206 shazbotmcnasty SirCmpwn Slapshot slystone Sooyou Spleeze stal stealthzen storge subgrayed surio Sysaxed Terexen the-gibson TheDrums TheElectricW TheNumbers TheReverend403 thetornainbow Tree_Hugger useall useragent_ usr VeggieMeat velkyr Vinylourson Vuoristoneuvos wgreenhouse xskoulax zack6849 zro zyder]
+2014-01-23 18:55:15	--	Channel #crunchbang: 172 nicks (1 ops, 0 voices, 171 normals)
+2014-01-23 18:55:16	--	Mode #crunchbang [+Ccnt]
+2014-01-23 18:55:16	--	Channel created on Sun, 03 Feb 2008 02:39:39
+2014-01-23 18:55:44	<--	crfd02354 (~crfd02354@69-196-154-19.dsl.teksavvy.com) has quit (Quit: Leaving)
+2014-01-23 18:55:50	<--	andril (~andril@c-75-74-105-53.hsd1.fl.comcast.net) has quit (Ping timeout: 248 seconds)
+2014-01-23 18:56:29	-->	MachinaeWolf (~MarioMast@unaffiliated/machinaewolf) has joined #crunchbang
+2014-01-23 18:56:41	<--	hobblinharry (~T1000_@c-68-51-198-162.hsd1.ga.comcast.net) has quit (Read error: Connection reset by peer)
+2014-01-23 18:56:53	<--	useragent_ (~useragent@grm-studby-128-39-149-158.studby.uia.no) has quit (Quit: useragent_)
+2014-01-23 18:57:39	-->	MillKi (~yaaic@d173-238-70-144.home4.cgocable.net) has joined #crunchbang
+2014-01-23 18:59:32	-->	useragent_ (~useragent@grm-studby-128-39-149-158.studby.uia.no) has joined #crunchbang
+2014-01-23 18:59:53	-->	mjwhitta (~mjwhitta@c-67-187-123-174.hsd1.tn.comcast.net) has joined #crunchbang
+2014-01-23 19:01:03	<--	mjwhitta (~mjwhitta@c-67-187-123-174.hsd1.tn.comcast.net) has quit (Client Quit)
+2014-01-23 19:01:04	<--	bocajnotnef (~bocajnotn@66-227-163-201.dhcp.klmz.mi.charter.com) has quit (Ping timeout: 272 seconds)
+2014-01-23 19:02:09	-->	horuden (~horuden@173.240.36.148) has joined #crunchbang
+2014-01-23 19:02:09	--	Topic for #crunchbang is "Welcome to #! support channel - WEB: http://crunchbang.org/  -!- RULES: http://bit.ly/XFta96 -!- PASTE: http://crunchbanglinux.org/pastebin/ -!- OT ##crunchbang"
+2014-01-23 19:02:09	--	Topic set by dizzie (~dizzie@pdpc/supporter/active/dizzie) on Fri, 01 Nov 2013 20:31:24
+2014-01-23 19:02:09	--	Nicks #crunchbang: [@ChanServ [ui] adium aiBo` alecz anyoneuno b3n_ bkilloran bline79 blip2 blitzed Brainspackle BrouetteNC c0ded cbdev cjva CLIfan codex1 CrazyJoeDavola crippledmonk cyrusdavid czardoz_ damentz dangerousbrother daswort debris` Deck` DeeEff deltab Demannu demure Dicklas diffra Dioreus dirtydawg djp duane dubious duggiefresh Elemeno-work emk entiat_blues espiral fongaboo FreeSpencer Frshbeetz garnus gkubed gremble gynter Halts HappyLoaf harrow harski heedypo horuden igufi ikonia jamesprice jasonwert jerd jNam_home jswagner junkmechanic juser Kabaka kamal_ Katharsis kbmonkey kilian kossy Kowalczyk kriskropd kuroishi kwyjibo^ Kyzz laydros lil_data_ loans lubiana luillee Lunchb0x MachinaeWolf Maltin MannDude Mapley Marshall_Banana maya- mgodzilla MHQ-Scotty milieu_ MillKi moetunes monoxide_13 morlog MrPPS MunkyBone Mushy n2o4 neodiablow nesthib NetCraWlr nicedice Noah0504 notleigh novik noxidious nullfaith nullm0dem ohama ohhmaar oldpet Onia onizu oozemeister orbea ovrstorm Paavi2_0 ParkerR PepperoniPizza pet2001 petracvv pksunkara_ plerx pnd4 PPH rapzo regulate rHermes Robchew Romer Rurd2di ruukasu salam4ik sanderr scrollback1 sephiap shawnbon206 shazbotmcnasty SirCmpwn Slapshot slystone Sooyou Spleeze stal stealthzen storge subgrayed surio Sysaxed Terexen the-gibson TheDrums TheElectricW TheNumbers TheReverend403 thetornainbow Tree_Hugger useall useragent_ usr VeggieMeat velkyr Vinylourson Vuoristoneuvos wgreenhouse xskoulax zack6849 zro zyder]
+2014-01-23 19:02:09	--	Channel #crunchbang: 170 nicks (1 ops, 0 voices, 169 normals)
+2014-01-23 19:02:11	--	Mode #crunchbang [+Ccnt]
+2014-01-23 19:02:11	--	Channel created on Sun, 03 Feb 2008 02:39:39
+2014-01-23 19:23:45	--	irc: disconnected from server
+2014-01-23 19:24:11	-->	horuden (~horuden@173.240.36.148) has joined #crunchbang
+2014-01-23 19:24:11	--	Topic for #crunchbang is "Welcome to #! support channel - WEB: http://crunchbang.org/  -!- RULES: http://bit.ly/XFta96 -!- PASTE: http://crunchbanglinux.org/pastebin/ -!- OT ##crunchbang"
+2014-01-23 19:24:11	--	Topic set by dizzie (~dizzie@pdpc/supporter/active/dizzie) on Fri, 01 Nov 2013 20:31:23
+2014-01-23 19:24:11	--	Nicks #crunchbang: [@ChanServ [ui] adium aiBo` alecz anyoneuno b3n_ bkilloran bline79 blip2 blitzed bocajnotnef Brainspackle BrouetteNC c0ded cbdev cjva CLIfan codex1 CrazyJoeDavola crippledmonk cyrusdavid czardoz_ damentz dangerousbrother daswort debris` Deck` DeeEff deltab Demannu demure Dicklas diffra Dioreus dirtydawg djp duane dubious duggiefresh Elemeno-work emk entiat_blues espiral fongaboo FreeSpencer Frshbeetz garnus gkubed gonzoAdmin gremble gynter Halts HappyLoaf harrow harski heedypo horuden igufi ikonia jamesprice jasonwert jerd jswagner junkmechanic juser Kabaka kamal_ Katharsis kbmonkey kilian kossy Kowalczyk kriskropd kuroishi kwyjibo^ Kyzz laydros lil_data_ loans lubiana luillee Lunchb0x MachinaeWolf Maltin MannDude Mapley Marshall_Banana maya- mgodzilla MHQ-Scotty milieu_ MillKi moetunes monoxide_13 morlog MrPPS MunkyBone Mushy n2o4 neodiablow nesthib NetCraWlr nicedice Noah0504 notleigh novik noxidious nullfaith nullm0dem ohama ohhmaar oldpet Onia onizu oozemeister orbea ovrstorm Paavi2_0 ParkerR PepperoniPizza pet2001 petracvv pksunkara_ plerx pnd4 PPH rapzo regulate rHermes Robchew Romer Rurd2di ruukasu salam4ik sanderr scrollback sephiap shawnbon206 shazbotmcnasty SirCmpwn Slapshot slystone Sooyou Spleeze stal stealthzen storge subgrayed surio Sysaxed Terexen the-gibson TheDrums TheElectricW TheNumbers TheReverend403 thetornainbow Tree_Hugger useall useragent_ usr VeggieMeat velkyr Vinylourson Vuoristoneuvos wgreenhouse xskoulax zack6849 zro zyder]
+2014-01-23 19:24:11	--	Channel #crunchbang: 171 nicks (1 ops, 0 voices, 170 normals)
+2014-01-23 19:24:11	--	Mode #crunchbang [+Ccnt]
+2014-01-23 19:24:11	--	Channel created on Sun, 03 Feb 2008 02:39:39
+2014-01-23 19:24:45	<--	damentz (~damentz@cpe-66-68-120-102.austin.res.rr.com) has quit (Ping timeout: 252 seconds)
+2014-01-23 19:24:59	MillKi	is there a netstumbler type app for Debian?, or would wifi-radar work ok?
+2014-01-23 19:26:39	MillKi	i don't know why wifi-radar needs to be run as root, and I'd need to configure it to actually override network-manager.
+2014-01-23 19:27:55	-->	absolutezeroff (~ff@S0106602ad0902520.vc.shawcable.net) has joined #crunchbang
+2014-01-23 19:29:04	-->	KiSM (~KiSM@CPE-124-182-157-247.lns5.pie.bigpond.net.au) has joined #crunchbang
+2014-01-23 19:33:22	-->	peter (~peter@p54823E21.dip0.t-ipconnect.de) has joined #crunchbang
+2014-01-23 19:33:44	--	peter is now known as Guest83544
+2014-01-23 19:33:52	<--	anyoneuno (~anyoneuno@ip98-166-103-75.hr.hr.cox.net) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2014-01-23 19:34:43	<--	bkilloran (~bkilloran@2604:2000:101e:c0db:f4e4:fc46:4ba5:7073) has quit (Remote host closed the connection)
+2014-01-23 19:36:45	<--	pet2001 (~peter@p54823FB9.dip0.t-ipconnect.de) has quit (Ping timeout: 252 seconds)
+2014-01-23 19:37:49	<--	Lunchb0x (~Tyranids@CPE-75-86-153-198.wi.res.rr.com) has quit (Remote host closed the connection)
+2014-01-23 19:38:08	-->	damentz (~damentz@75.126.39.104-static.reverse.softlayer.com) has joined #crunchbang
+2014-01-23 19:40:22	Dioreus	is it not possible to login as su in #!?
+2014-01-23 19:45:15	<--	Sysaxed (~user@sa-84-52-43-83.saturn.infonet.ee) has quit (Ping timeout: 264 seconds)
+2014-01-23 19:45:48	<--	absolutezeroff (~ff@S0106602ad0902520.vc.shawcable.net) has quit (Quit: Leaving)
+2014-01-23 19:46:01	-->	absolutezeroff (~ff@S0106602ad0902520.vc.shawcable.net) has joined #crunchbang
+2014-01-23 19:46:52	<--	entiat_blues (~entiat_bl@c-24-21-213-45.hsd1.or.comcast.net) has quit (Read error: Connection reset by peer)
+2014-01-23 19:48:52	bocajnotnef	Dioreus, I just did. So, yes, it is possible
+2014-01-23 19:48:58	-->	bkilloran (~bkilloran@2604:2000:101e:c0db:a174:2700:f7f9:c579) has joined #crunchbang
+2014-01-23 19:50:00	-->	jughead (~jughead@68.52.136.187) has joined #crunchbang
+2014-01-23 19:50:19	Dioreus	bocajnotnef, when I try to log into su, it fails, but when I use sudo and a command the authentication is accepted
+2014-01-23 19:50:48	Dioreus	I tried sudo passwd and the command went through, but the password seems the same for both user and su
+2014-01-23 19:51:34	bocajnotnef	Dioreus, the actual root password tends to be obfuscated in most linux distros I've seen
+2014-01-23 19:51:47	bocajnotnef	Root is accessible to the user through su and sudo
+2014-01-23 19:52:38	bocajnotnef	What exactly are you trying to do?
+2014-01-23 19:53:00	Dioreus	change the root passwd, it is the the same as my user passwd
+2014-01-23 19:54:51	bocajnotnef	It should just be sudo passwd
+2014-01-23 19:55:27	bocajnotnef	according to various forums etc.
+2014-01-23 19:56:04	Dioreus	yeah it worked now
+2014-01-23 19:56:27	Dioreus	strange
+2014-01-23 19:56:44	<--	rapzo (~ruipedro@doris.12feettallstudio.com) has quit (Quit: leaving)
+2014-01-23 20:04:41	xskoulax	crippledmonk: yep
+2014-01-23 20:07:02	<--	onizu (~onizu@27.5.182.152) has quit (Ping timeout: 252 seconds)
+2014-01-23 20:08:35	<--	absolutezeroff (~ff@S0106602ad0902520.vc.shawcable.net) has quit (Quit: Leaving)
+2014-01-23 20:08:58	-->	onizu (~onizu@27.5.182.152) has joined #crunchbang
+2014-01-23 20:10:33	shawnbon206	hey guys. question: i am on jessie i want to install the wine64 package. am i wasting my time trying to get win64 apps to work in linux? or is it somewhat plausible?
+2014-01-23 20:11:03	<--	MunkyBone (~MunkyBone@CPE001839ecaf23-CMbcc8100d89fa.cpe.net.cable.rogers.com) has quit (Ping timeout: 264 seconds)
+2014-01-23 20:13:18	-->	kbr729472 (~b@c-67-180-160-243.hsd1.ca.comcast.net) has joined #crunchbang
+2014-01-23 20:15:15	kbr729472	anyone know how to open a program that runs within the shell with a shortcut? like to open midnight commander what would the command be?
+2014-01-23 20:15:25	kbr729472	in your Alt-F2 diaglog
+2014-01-23 20:17:05	<--	bocajnotnef (~bocajnotn@66-227-163-201.dhcp.klmz.mi.charter.com) has quit (Ping timeout: 245 seconds)
+2014-01-23 20:18:29	-->	pielgrzym1 (~pielgrzym@151.248.58.130) has joined #crunchbang
+2014-01-23 20:22:29	<--	kbr729472 (~b@c-67-180-160-243.hsd1.ca.comcast.net) has left #crunchbang ("WeeChat 0.4.2")
+2014-01-23 20:24:22	<--	pielgrzym1 (~pielgrzym@151.248.58.130) has quit (Ping timeout: 248 seconds)
+2014-01-23 20:26:36	Dioreus	kbr729472 , use the apropos command to find out the command name of the program
+2014-01-23 20:26:51	Dioreus	then bind that to the key
+2014-01-23 20:30:06	<--	jughead (~jughead@68.52.136.187) has quit (Ping timeout: 252 seconds)
+2014-01-23 20:44:58	--	irc: disconnected from server
+2014-01-23 20:45:24	-->	horuden (~horuden@173.240.36.148) has joined #crunchbang
+2014-01-23 20:45:24	--	Topic for #crunchbang is "Welcome to #! support channel - WEB: http://crunchbang.org/  -!- RULES: http://bit.ly/XFta96 -!- PASTE: http://crunchbanglinux.org/pastebin/ -!- OT ##crunchbang"
+2014-01-23 20:45:24	--	Topic set by dizzie (~dizzie@pdpc/supporter/active/dizzie) on Fri, 01 Nov 2013 20:31:23
+2014-01-23 20:45:24	--	Nicks #crunchbang: [@ChanServ [ui] adium aiBo` alecz b3n_ bline79 blip2 blitzed bocajnotnef Brainspackle BrouetteNC c0ded cbdev ceh421 cjva CLIfan codex1 CrazyJoeDavola crippledmonk cyrusdavid czardoz_ damentz dangerousbrother daswort debris` Deck` DeeEff deltab Demannu demure Dicklas diffra Dioreus dirtydawg djp duane dubious duggiefresh Elemeno-work emk espiral fongaboo FreeSpencer Frshbeetz garnus gkubed gonzoAdmin gremble Guest83544 gynter Halts HappyLoaf harrow harski heedypo horuden igufi ikonia jamesprice jasonwert jerd jswagner junkmechanic juser Kabaka kamal_ Katharsis kbmonkey kilian KiSM kossy Kowalczyk kriskropd kuroishi kwyjibo^ Kyzz laydros lil_data_ loans lubiana luillee MachinaeWolf Maltin MannDude Mapley Marshall_Banana maya- mgodzilla MHQ-Scotty milieu_ MillKi moetunes monoxide_13 morlog MrPPS Mushy n2o4 neodiablow nesthib NetCraWlr nicedice Noah0504 notleigh novik noxidious nullfaith nullm0dem ohama ohhmaar oldpet Onia onizu oozemeister orbea ovrstorm Paavi2_0 ParkerR PepperoniPizza petracvv pksunkara_ plerx pnd4 PPH regulate rHermes Robchew Romer Rurd2di ruukasu salam4ik sanderr scrollback sephiap shawnbon206 shazbotmcnasty SirCmpwn Slapshot slystone Sooyou Spleeze stal storge subgrayed surio Terexen the-gibson TheDrums TheElectricW TheNumbers TheReverend403 thetornainbow Tree_Hugger useall useragent_ usr VeggieMeat velkyr Vinylourson Vuoristoneuvos wgreenhouse xskoulax zack6849 zro zyder]
+2014-01-23 20:45:24	--	Channel #crunchbang: 165 nicks (1 ops, 0 voices, 164 normals)
+2014-01-23 20:45:25	--	Mode #crunchbang [+Ccnt]
+2014-01-23 20:45:25	--	Channel created on Sun, 03 Feb 2008 02:39:39
+2014-01-23 20:46:59	-->	entiat_blues (~entiat_bl@c-24-21-213-45.hsd1.or.comcast.net) has joined #crunchbang
+2014-01-23 20:57:33	<--	b3n_ (~Ben@71-89-26-3.dhcp.stpt.wi.charter.com) has quit (Read error: Connection reset by peer)
+2014-01-23 21:06:09	-->	Darryl (~Darryl@183.87.244.182) has joined #crunchbang
+2014-01-23 21:06:38	-->	hobblinharry_ (~hobblinha@c-68-51-198-162.hsd1.ga.comcast.net) has joined #crunchbang
+2014-01-23 21:06:53	<--	salam4ik (~salam4ik@91.235.178.177) has quit (Remote host closed the connection)
+2014-01-23 21:09:00	<--	junkmechanic (~junkmecha@nusnet-202-57.dynip.nus.edu.sg) has quit (Ping timeout: 260 seconds)
+2014-01-23 21:12:31	<--	hobblinharry_ (~hobblinha@c-68-51-198-162.hsd1.ga.comcast.net) has quit (Quit: Colloquy for iPad - http://colloquy.mobi)
+2014-01-23 21:14:09	<--	adium (~adium@unaffiliated/adium) has quit
+2014-01-23 21:17:51	<--	duggiefresh (~duggiefre@c-66-30-12-178.hsd1.ma.comcast.net) has quit (Read error: Connection reset by peer)
+2014-01-23 21:18:10	-->	duggiefresh (~duggiefre@c-66-30-12-178.hsd1.ma.comcast.net) has joined #crunchbang
+2014-01-23 21:18:52	-->	MunkyBone (~MunkyBone@CPE001839ecaf23-CMbcc8100d89fa.cpe.net.cable.rogers.com) has joined #crunchbang
+2014-01-23 21:19:08	<--	ceh421 (~smuxi@184.79.196.93) has quit (Remote host closed the connection)
+2014-01-23 21:20:59	-->	pielgrzym1 (~pielgrzym@151.248.58.130) has joined #crunchbang
+2014-01-23 21:21:48	<--	bocajnotnef (~bocajnotn@66-227-163-201.dhcp.klmz.mi.charter.com) has quit (Ping timeout: 252 seconds)
+2014-01-23 21:25:09	<--	pielgrzym1 (~pielgrzym@151.248.58.130) has quit (Ping timeout: 248 seconds)
+2014-01-23 21:28:53	<--	CLIfan (~mike@pool-108-44-150-15.clppva.fios.verizon.net) has quit (Ping timeout: 272 seconds)
+2014-01-23 21:28:56	<--	Dioreus (~ss@97-83-20-53.dhcp.aldl.mi.charter.com) has quit (Remote host closed the connection)
+2014-01-23 21:29:50	-->	Twix2247 (~timothy@adsl-75-39-139-201.dsl.tpkaks.sbcglobal.net) has joined #crunchbang
+2014-01-23 21:34:47	<--	Twix2247 (~timothy@adsl-75-39-139-201.dsl.tpkaks.sbcglobal.net) has quit (Quit: Leaving)
+2014-01-23 21:36:15	-->	philipballew (~philip@ubuntu/member/philipballew) has joined #crunchbang
+2014-01-23 21:42:50	<--	alecz (~alecz@S010620aa4b02ce12.ed.shawcable.net) has quit (Ping timeout: 264 seconds)
+2014-01-23 21:43:27	-->	salam4ik (~salam4ik@151.237.154.98) has joined #crunchbang
+2014-01-23 21:51:16	-->	bkilloran (~bkilloran@cpe-24-193-108-32.nyc.res.rr.com) has joined #crunchbang
+2014-01-23 21:51:25	-->	Dioreus (~ss@97-83-20-53.dhcp.aldl.mi.charter.com) has joined #crunchbang
+2014-01-23 21:54:09	-->	Artopal (~Artopal@190.114.249.158) has joined #crunchbang
+2014-01-23 21:54:23	Dioreus	trying to make a program run on start, I have the init.d file here. The program starts on login, but it only shows briefly then disappears (redshift)
+2014-01-23 21:54:26	Dioreus	http://www.pastebin.ca/2581518
+2014-01-23 21:54:27	MHQ-Scotty	pastebin - Mine - post number 2581518 ( at http://mf2.me/LOst8Z )
+2014-01-23 21:56:23	<--	Artopal (~Artopal@190.114.249.158) has quit (Client Quit)
+2014-01-23 21:56:40	<--	bkilloran (~bkilloran@cpe-24-193-108-32.nyc.res.rr.com) has quit (Ping timeout: 245 seconds)
+2014-01-23 21:56:42	-->	Artopal (~rafo@190.114.249.158) has joined #crunchbang
+2014-01-23 21:57:23	shawnbon206	hey guys. question: i am on jessie i want to install the wine64 package. am i wasting my time trying to get win64 apps to work in linux? or is it somewhat plausible?
+2014-01-23 22:00:00	<--	duggiefresh (~duggiefre@c-66-30-12-178.hsd1.ma.comcast.net) has quit (Remote host closed the connection)
+2014-01-23 22:07:04	<--	Kyzz (~quassel@unaffiliated/kyzz) has quit (Remote host closed the connection)
+2014-01-23 22:07:32	<--	MunkyBone (~MunkyBone@CPE001839ecaf23-CMbcc8100d89fa.cpe.net.cable.rogers.com) has quit (Ping timeout: 252 seconds)
+2014-01-23 22:07:43	-->	meadhikari (~adhikari@49.244.158.7) has joined #crunchbang
+2014-01-23 22:07:43	-->	Kyzz (~quassel@unaffiliated/kyzz) has joined #crunchbang
+2014-01-23 22:08:59	<--	onizu (~onizu@27.5.182.152) has quit (Ping timeout: 240 seconds)
+2014-01-23 22:11:00	-->	MHQ-Johnny (~MHQ-Johnn@unaffiliated/mindlessjohnny) has joined #crunchbang
+2014-01-23 22:12:06	<--	Artopal (~rafo@190.114.249.158) has quit (Quit: Leaving.)
+2014-01-23 22:14:09	-->	absolutezeroff (~ff@108.172.218.233) has joined #crunchbang
+2014-01-23 22:19:05	<--	MachinaeWolf (~MarioMast@unaffiliated/machinaewolf) has quit (Ping timeout: 252 seconds)
+2014-01-23 22:19:42	-->	whirli (~whirli@91-145-75-232.bb.dnainternet.fi) has joined #crunchbang
+2014-01-23 22:21:42	-->	pielgrzym1 (~pielgrzym@151.248.58.130) has joined #crunchbang
+2014-01-23 22:22:48	-->	bocajnotnef (~bocajnotn@66-227-163-201.dhcp.klmz.mi.charter.com) has joined #crunchbang
+2014-01-23 22:23:19	-->	theplic (~theplic@122.162.29.133) has joined #crunchbang
+2014-01-23 23:29:56	--	irc: disconnected from server
+2014-01-23 23:30:22	-->	horuden (~horuden@173.240.36.148) has joined #crunchbang
+2014-01-23 23:30:22	--	Topic for #crunchbang is "Welcome to #! support channel - WEB: http://crunchbang.org/  -!- RULES: http://bit.ly/XFta96 -!- PASTE: http://crunchbanglinux.org/pastebin/ -!- OT ##crunchbang"
+2014-01-23 23:30:22	--	Topic set by dizzie (~dizzie@pdpc/supporter/active/dizzie) on Fri, 01 Nov 2013 20:31:23
+2014-01-23 23:30:22	--	Nicks #crunchbang: [@ChanServ [ui] aiBo` bline79 blip2 blitzed Brainspackle BrouetteNC c0ded cbdev cjva codex1 CrazyJoeDavola crippledmonk cyrusdavid czardoz_ damentz dangerousbrother daswort debris` Deck` DeeEff deltab Demannu demure Dicklas diffra Dioreus dirtydawg djp duane dubious Elemeno-work emk entiat_blues espiral fongaboo freedomrun FreeSpencer Frshbeetz garnus gkubed gonzoAdmin gremble Guest83544 gynter Halts HappyLoaf harrow harski heedypo horuden igufi ikonia jamesprice jasonwert jerd jswagner juser Kabaka kamal_ Katharsis kbmonkey kilian KiSM kossy Kowalczyk kriskropd kuroishi kwyjibo^ Kyzz laydros lil_data_ loans lubiana luillee Maltin MannDude Mapley Marshall_Banana maya- mgodzilla MHQ-Scotty milieu_ MillKi modestcargo moetunes monoxide_13 morlog MrPPS Mushy n2o4 neodiablow nesthib NetCraWlr netwaps Noah0504 novik noxidious nullfaith nullm0dem ohama ohhmaar oldpet Onia oozemeister orbea ovrstorm Paavi2_0 ParkerR PepperoniPizza petracvv pksunkara_ plerx pnd4 PPH regulate rHermes Robchew Romer Rurd2di ruukasu salam4ik sanderr scrollback sephiap shawnbon206 shazbotmcnasty SirCmpwn Slapshot slystone Sooyou Spleeze stal storge subgrayed surio Terexen the-gibson TheDrums TheElectricW TheNumbers theplic TheReverend403 thetornainbow Tree_Hugger useall useragent_ usr VeggieMeat velkyr Vinylourson Vuoristoneuvos wgreenhouse whirli xskoulax zack6849 zro zyder]
+2014-01-23 23:30:22	--	Channel #crunchbang: 159 nicks (1 ops, 0 voices, 158 normals)
+2014-01-23 23:30:22	--	Mode #crunchbang [+Ccnt]
+2014-01-23 23:30:22	--	Channel created on Sun, 03 Feb 2008 02:39:39
+2014-01-23 23:31:30	-->	kozak (~kozak@88.87.95.137) has joined #crunchbang
+2014-01-23 23:36:58	-->	anon113 (~evan@c-67-201-195-177.reshall.wwu.edu) has joined #crunchbang
+2014-01-23 23:37:17	<--	anon113 (~evan@c-67-201-195-177.reshall.wwu.edu) has quit (Client Quit)
+2014-01-24 01:41:34	--	irc: disconnected from server
+2014-01-24 18:30:34	-->	horuden (~horuden@173.240.36.148) has joined #crunchbang
+2014-01-24 18:30:34	--	Topic for #crunchbang is "Welcome to #! support channel - WEB: http://crunchbang.org/  -!- RULES: http://bit.ly/XFta96 -!- PASTE: http://crunchbanglinux.org/pastebin/ -!- OT ##crunchbang"
+2014-01-24 18:30:34	--	Topic set by dizzie (~dizzie@pdpc/supporter/active/dizzie) on Fri, 01 Nov 2013 20:31:23
+2014-01-24 18:30:34	--	Nicks #crunchbang: [@ChanServ [ui] adium aiBo` basiclaser bite bline79 blip2 blitzed Brainspackle BrotherOdd BrouetteNC c0ded cbdev cjva codex1 consecratio CrazyJoeDavola crippledmonk cyrusdavid czardoz_ damentz daswort debris` Deck` DeeEff deltab Demannu demure Dicklas diffra dirtydawg djp duane dubious Elemeno-work ElricStorm emk entiat_blues espiral fongaboo FreeSpencer Frshbeetz fsf-free garnus gkubed_II gonzoAdminsGhost gremble Guest83544 gynter HappyLoaf harrow harski heedypo HellTiger_ hmstrmn hobblinharry horuden igufi ikonia jamesprice jaygatsby7 jd_68 jerd jNam_home jswagner juser Kabaka kamal_ Katharsis kbmonkey kilian kossy Kowalczyk kriskropd kuroishi kurukururisk_ kwyjibo\ Kyzz laydros lil_data_ lmerg loans lubiana luillee Lunchb0x m4ggus MachinaeWolf Maltin MannDude Mapley Marshall_Banana maya- mgodzilla milieu_ MillKi modestcargo moetunes monoxide_13 morlog MrPPS Mushy n2o4 nell neodiablow nesthib NetCraWlr nicedice Noah0504 novik noxidious nullfaith nullm0dem ohama ohhmaar oldpet Onia oozemeister oozemeister1 orbea ovrstorm Paavi2_0 ParkerR Pessimist petracvv pksunkara_ plerx pnd4 PPH ralkof rapzo regulate Rev|SleepingFox rHermes Robchew Romer Rurd2di ruukasu salam4ik sanderr scrollback1 sephiap shawnbon206 shazbotmcnasty SirCmpwn Slapshot slystone Sooyou Spleeze spoonman stal storge subgrayed surio Sysaxed Terexen the-gibson TheDrums TheElectricW_ TheNumbers thetornainbow uizex1 useall usr VeggieMeat velsi Vinylourson Vuoristoneuvos wgreenhouse xskoulax zack6849 zyder]
+2014-01-24 18:30:34	--	Channel #crunchbang: 172 nicks (1 ops, 0 voices, 171 normals)
+2014-01-24 18:30:34	--	Mode #crunchbang [+Ccnt]
+2014-01-24 18:30:34	--	Channel created on Sun, 03 Feb 2008 02:39:39
+2014-01-24 18:30:35	consecratio	i dunno
+2014-01-24 18:30:41	Sysaxed	are you sure that you did not press F1 twice?
+2014-01-24 18:31:01	Sysaxed	because it rotates between them
+2014-01-24 18:31:07	consecratio	well I did, but because it went to lxde on the first press
+2014-01-24 18:31:21	Sysaxed	ooh
+2014-01-24 18:31:24	consecratio	It had openbox, then lxde, then i3
+2014-01-24 18:31:59	Sysaxed	oooh, cool, so lxde is not listed in your slim.conf, but it appears when going through them with F1 ?
+2014-01-24 18:32:08	Sysaxed	right?
+2014-01-24 18:32:14	consecratio	um
+2014-01-24 18:32:24	consecratio	I wrote it in there
+2014-01-24 18:32:30	consecratio	so i think its listed
+2014-01-24 18:32:39	-->	anyoneuno (~anyoneuno@ip98-166-103-75.hr.hr.cox.net) has joined #crunchbang
+2014-01-24 18:32:41	Sysaxed	not sure why you did that
+2014-01-24 18:32:45	Sysaxed	but whatever
+2014-01-24 18:32:48	consecratio	lol shrug
+2014-01-24 18:33:13	Sysaxed	consecratio: okay, well, what can I say...
+2014-01-24 18:33:22	Sysaxed	that should have worked
+2014-01-24 18:33:24	Sysaxed	I wonder what's wrong
+2014-01-24 18:33:28	Sysaxed	but
+2014-01-24 18:33:34	consecratio	if its worth anything, heres those lines of code: #sessions            default,startxfce4,openbox,ion3,icewm,wmaker,blackbox,awesome
+2014-01-24 18:33:34	consecratio	sessions            openbox-session,lxde,i3
+2014-01-24 18:33:40	Sysaxed	you can sudo update-alternatives --config x-window-manager
+2014-01-24 18:33:44	Sysaxed	and choose i3
+2014-01-24 18:33:50	Sysaxed	this will boot it for sure
+2014-01-24 18:33:57	consecratio	alrighty
+2014-01-24 18:34:06	consecratio	I will give that a shot
+2014-01-24 18:35:21	consecratio	real quick,  if I'm new to tiling wms, should I go with awesome or i3
+2014-01-24 18:36:04	<--	Onia (~gangosan@77.71.70.137) has quit (Read error: Connection timed out)
+2014-01-24 18:36:28	Sysaxed	I don't know
+2014-01-24 18:36:35	-->	Rigo (~laptop@ip68-101-169-76.sd.sd.cox.net) has joined #crunchbang
+2014-01-24 18:36:36	Sysaxed	some people say that awesome is shit
+2014-01-24 18:36:44	Sysaxed	but I haven't tried it, I'm using i3
+2014-01-24 18:37:02	consecratio	alright, I'll go with i3 I think
+2014-01-24 18:37:42	consecratio	so I have to reboot for that to take effect then?
+2014-01-24 18:38:04	<--	jaygatsby7 (~gatsby@unaffiliated/jaygatsby7) has quit (Quit: Leaving)
+2014-01-24 18:39:10	Sysaxed	consecratio: yuss
+2014-01-24 18:39:22	consecratio	aight, I'll reboot and brb
+2014-01-24 18:39:29	<--	consecratio (~alex@75.114.197.202) has quit (Remote host closed the connection)
+2014-01-24 18:40:40	-->	jasonwert (~w3rt@71.89.137.28) has joined #crunchbang
+2014-01-24 18:40:52	<--	ElricStorm (~Dum@unaffiliated/elricstorm) has quit (Quit: Leaving)
+2014-01-24 18:41:29	-->	consecratio (~alex@75.114.197.202) has joined #crunchbang
+2014-01-24 18:41:38	<--	lmerg (~lmerg@99-27-106-128.lightspeed.irvnca.sbcglobal.net) has quit (Ping timeout: 272 seconds)
+2014-01-24 18:41:45	consecratio	still didn't work :(
+2014-01-24 18:43:03	consecratio	still in lxde
+2014-01-24 18:44:59	Sysaxed	I don't believe that :)
+2014-01-24 18:45:11	-->	Un4v0w3d (~Un4v0w3d@cpe-173-89-45-220.wi.res.rr.com) has joined #crunchbang
+2014-01-24 18:45:13	consecratio	I shit you not brah
+2014-01-24 18:45:20	-->	Ecnavda (Ecnavda@adsl-074-245-238-156.sip.bct.bellsouth.net) has joined #crunchbang
+2014-01-24 18:45:28	Sysaxed	but shit, how is that possible...
+2014-01-24 18:45:49	<--	hmstrmn (~hmstrmn@grm-studby-128-39-149-158.studby.uia.no) has quit (Remote host closed the connection)
+2014-01-24 18:45:52	consecratio	was i still supposed to press f1?
+2014-01-24 18:45:54	Sysaxed	what if you go to your ctrl+alt+f1, login and then just 'startx' ?
+2014-01-24 18:46:09	Sysaxed	consecratio: well, you can try both
+2014-01-24 18:46:14	<--	Ecnavda (Ecnavda@adsl-074-245-238-156.sip.bct.bellsouth.net) has left #crunchbang
+2014-01-24 18:46:22	Sysaxed	but 'startx' should load the default one
+2014-01-24 18:46:29	consecratio	I'll see what happens with that ctrl+alt+f1
+2014-01-24 18:46:39	Sysaxed	which is what you choose with update-alternatives
+2014-01-24 18:46:55	Sysaxed	consecratio: TTY opens, login there
+2014-01-24 18:47:04	Sysaxed	and run startx
+2014-01-24 18:47:12	Sysaxed	it's like a terminal
+2014-01-24 18:47:18	Sysaxed	but without a gui :)
+2014-01-24 18:47:35	-->	alex__ (~alex@75.114.197.202) has joined #crunchbang
+2014-01-24 18:47:44	-->	hmstrmn (~hmstrmn@grm-studby-128-39-149-158.studby.uia.no) has joined #crunchbang
+2014-01-24 18:48:31	alex__	hey, different name but I'm consecratio
+2014-01-24 18:48:38	alex__	I did the startx
+2014-01-24 18:48:45	alex__	and I went back into lxde
+2014-01-24 18:49:30	<--	hmstrmn (~hmstrmn@grm-studby-128-39-149-158.studby.uia.no) has quit (Read error: Connection reset by peer)
+2014-01-24 18:49:50	-->	hmstrmn (~hmstrmn@grm-studby-128-39-149-158.studby.uia.no) has joined #crunchbang
+2014-01-24 18:51:16	<--	HellTiger_ (~HellTiger@138-141.199-178.cust.bluewin.ch) has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2014-01-24 18:51:38	-->	nien (~nien@67-6-130-154.hlrn.qwest.net) has joined #crunchbang
+2014-01-24 18:52:19	-->	jaygatsby7 (~Gatsby@unaffiliated/jaygatsby7) has joined #crunchbang
+2014-01-24 18:52:42	Sysaxed	I don't know. Maybe somebody else has some idea?
+2014-01-24 18:52:50	Un4v0w3d	How do I disable two finger scroll on my touch pad. I thought it would be $ synaptics -VertTwoFingerScroll 0   however that did not work.
+2014-01-24 18:53:46	Sysaxed	Un4v0w3d: synclient VertTwoFingerScroll=0
+2014-01-24 18:54:00	Sysaxed	exactly how I typed it
+2014-01-24 18:54:55	Sysaxed	how did you manage to make so many mistakes in one command :D
+2014-01-24 18:55:00	Sysaxed	I counted 3
+2014-01-24 18:56:03	Sysaxed	Un4v0w3d: did that work?
+2014-01-24 18:56:14	-->	twistedbottwiste (~twistedbo@67-6-130-154.hlrn.qwest.net) has joined #crunchbang
+2014-01-24 18:56:15	<--	hmstrmn (~hmstrmn@grm-studby-128-39-149-158.studby.uia.no) has quit (Quit: Leaving)

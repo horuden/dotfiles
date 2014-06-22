@@ -1,0 +1,6 @@
+## System wide functions that I find handy!
+
+# Create a new directory and enter it
+function mkd() {
+    mkdir -p "$@" && cd "$@"
+}
