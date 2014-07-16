@@ -28,8 +28,8 @@ fi
 export PATH=/usr/local/bin:$PATH
 
 # put ~/bin on PATH if you have it
-test -d "$HOME/bin" &&
-PATH="$HOME/bin:$PATH"
+test -d "$HOME/.dotfiles/bin" &&
+PATH="$HOME/.dotfiles/bin:$PATH"
 
 # put todo.sh on PATH
 test -d "$HOME/.dotfiles/bin/todo.txt_cli" &&
