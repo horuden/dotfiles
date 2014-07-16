@@ -15,6 +15,11 @@ unset MAILCHECK
 # awesome sauce command prompt!
 PS1="┌─\[\e[01;36m\]\h\[\e[00m\]:\[\e[1;37m\]\w\[\e[0m\]]\n└─╼"
 
+# source the file that adds a seperator line between commands
+if [ -n "$PS1" -a -f "$HOME/.dotfiles/etc/bash_ps1.sh" ]; then
+    . "$HOME/.dotfiles/etc/bash_ps1.sh"
+fi
+
 # -------------------------------------------------------------------------
 # PATH
 # -------------------------------------------------------------------------

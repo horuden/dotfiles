@@ -9,6 +9,8 @@ set modeline				" make sure modeline support is enabled
 
 set clipboard=unnamed
 
+set mouse=a
+
 " ------------------------------------------------------------------------------
 " Colors / Theme
 " ------------------------------------------------------------------------------
