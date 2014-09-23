@@ -1,29 +1,24 @@
-[2014-01-23 19:01:43] WeeChat 0.4.2 (compiled on Jan 23 2014 09:47:45)
-[2014-01-23 19:01:43] Reading configuration file sec.conf
-[2014-01-23 19:01:43] Reading configuration file weechat.conf
-[2014-01-23 19:01:43] Reading configuration file plugins.conf
-[2014-01-23 19:01:43] Reading configuration file alias.conf
-[2014-01-23 19:01:43] Reading configuration file charset.conf
-[2014-01-23 19:01:43] Reading configuration file irc.conf
-[2014-01-23 19:01:43] irc: connecting to server chat.freenode.net/6667...
-[2014-01-23 19:01:43] Reading configuration file logger.conf
-[2014-01-23 19:01:43] Reading configuration file relay.conf
-[2014-01-23 19:01:43] Reading configuration file rmodifier.conf
-[2014-01-23 19:01:43] Reading configuration file script.conf
-[2014-01-23 19:01:43] Reading configuration file xfer.conf
-[2014-01-23 19:23:55] irc: connecting to server chat.freenode.net/6667...
-[2014-01-23 20:45:08] irc: connecting to server chat.freenode.net/6667...
-[2014-01-23 23:30:06] irc: connecting to server chat.freenode.net/6667...
-[2014-01-24 01:41:44] irc: connecting to server chat.freenode.net/6667...
-[2014-01-24 18:30:19] irc: connecting to server chat.freenode.net/6667...
-[2014-01-24 18:56:31] Writing configuration file plugins.conf 
-[2014-01-24 18:56:31] Writing configuration file xfer.conf 
-[2014-01-24 18:56:31] Writing configuration file script.conf 
-[2014-01-24 18:56:31] Writing configuration file rmodifier.conf 
-[2014-01-24 18:56:31] Writing configuration file relay.conf 
-[2014-01-24 18:56:31] Writing configuration file logger.conf 
-[2014-01-24 18:56:32] Writing configuration file irc.conf 
-[2014-01-24 18:56:32] Writing configuration file charset.conf 
-[2014-01-24 18:56:32] Writing configuration file alias.conf 
-[2014-01-24 18:56:32] Writing configuration file weechat.conf 
-[2014-01-24 18:56:32] Writing configuration file sec.conf 
+[2014-07-29 03:15:36] WeeChat 0.4.3 (compiled on Jul 29 2014 03:14:47)
+[2014-07-29 03:15:36] Reading configuration file sec.conf
+[2014-07-29 03:15:36] Reading configuration file weechat.conf
+[2014-07-29 03:15:36] Reading configuration file plugins.conf
+[2014-07-29 03:15:36] Reading configuration file alias.conf
+[2014-07-29 03:15:36] Reading configuration file charset.conf
+[2014-07-29 03:15:36] Reading configuration file irc.conf
+[2014-07-29 03:15:36] irc: connecting to server chat.freenode.net/6667...
+[2014-07-29 03:15:36] Reading configuration file logger.conf
+[2014-07-29 03:15:36] Reading configuration file relay.conf
+[2014-07-29 03:15:36] Reading configuration file rmodifier.conf
+[2014-07-29 03:15:36] Reading configuration file script.conf
+[2014-07-29 03:15:36] Reading configuration file xfer.conf
+[2014-07-29 03:18:35] Writing configuration file plugins.conf 
+[2014-07-29 03:18:35] Writing configuration file xfer.conf 
+[2014-07-29 03:18:35] Writing configuration file script.conf 
+[2014-07-29 03:18:35] Writing configuration file rmodifier.conf 
+[2014-07-29 03:18:35] Writing configuration file relay.conf 
+[2014-07-29 03:18:35] Writing configuration file logger.conf 
+[2014-07-29 03:18:35] Writing configuration file irc.conf 
+[2014-07-29 03:18:35] Writing configuration file charset.conf 
+[2014-07-29 03:18:35] Writing configuration file alias.conf 
+[2014-07-29 03:18:35] Writing configuration file weechat.conf 
+[2014-07-29 03:18:35] Writing configuration file sec.conf 

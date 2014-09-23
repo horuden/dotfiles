@@ -1410,3 +1410,40 @@
 2014-01-23 18:59:23		Key "meta2-24;2~" unbound (context: "default")
 2014-01-23 18:59:23		New key binding (context "default"): meta2-24;2~ => /bar scroll nicklist * y-100%
 2014-01-23 19:01:43		Plugins loaded: alias, charset, fifo, irc, logger, relay, rmodifier, script, tcl, xfer
+2014-07-29 03:15:36		Plugins loaded: alias, charset, fifo, irc, logger, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-29 03:18:09		[core]
+2014-07-29 03:18:09		  away     color    debug    help     key      mute     proxy    repeat   set      uptime   window 
+2014-07-29 03:18:09		  bar      command  eval     history  layout   plugin   quit     save     unset    version
+2014-07-29 03:18:09		  buffer   cursor   filter   input    mouse    print    reload   secure   upgrade  wait   
+2014-07-29 03:18:09		[alias]
+2014-07-29 03:18:09		  AAWAY    AMSG     C        CLOSE    J        LEAVE    N        SAY      UB       V        WI     
+2014-07-29 03:18:09		  alias    ANICK    CHAT     EXIT     K        M        Q        SIGNOFF  UMODE    W        WII    
+2014-07-29 03:18:09		  AME      BYE      CL       IG       KB       MUB      REDRAW   T        unalias  WC       WW     
+2014-07-29 03:18:09		[charset]
+2014-07-29 03:18:09		  charset
+2014-07-29 03:18:09		[irc]
+2014-07-29 03:18:09		  admin       dcc         ignore      kill        motd        oper        reconnect   saquit      summon      version   
+2014-07-29 03:18:09		  allchan     dehalfop    info        links       msg         part        rehash      server      time        voice     
+2014-07-29 03:18:09		  allserv     deop        invite      list        names       ping        restart     service     topic       wallchops 
+2014-07-29 03:18:09		  ban         devoice     ison        lusers      nick        pong        sajoin      servlist    trace       wallops   
+2014-07-29 03:18:09		  connect     die         join        map         notice      query       samode      squery      unban       who       
+2014-07-29 03:18:09		  ctcp        disconnect  kick        me          notify      quiet       sanick      squit       userhost    whois     
+2014-07-29 03:18:09		  cycle       halfop      kickban     mode        op          quote       sapart      stats       users       whowas    
+2014-07-29 03:18:09		[logger]
+2014-07-29 03:18:09		  logger
+2014-07-29 03:18:09		[perl]
+2014-07-29 03:18:09		  perl
+2014-07-29 03:18:09		[python]
+2014-07-29 03:18:09		  python
+2014-07-29 03:18:09		[relay]
+2014-07-29 03:18:09		  relay
+2014-07-29 03:18:09		[rmodifier]
+2014-07-29 03:18:09		  rmodifier
+2014-07-29 03:18:09		[ruby]
+2014-07-29 03:18:09		  ruby
+2014-07-29 03:18:09		[script]
+2014-07-29 03:18:09		  script
+2014-07-29 03:18:09		[tcl]
+2014-07-29 03:18:09		  tcl
+2014-07-29 03:18:09		[xfer]
+2014-07-29 03:18:09		  me  xfer

@@ -13,12 +13,15 @@
 unset MAILCHECK
 
 # awesome sauce command prompt!
-PS1="┌─\[\e[01;36m\]\h\[\e[00m\]:\[\e[1;37m\]\w\[\e[0m\]]\n└─╼"
+#PS1="┌─\[\e[01;36m\]\h\[\e[00m\]:\[\e[1;37m\]\w\[\e[0m\]]\n└─╼"
+#PS1=="[\u]\\$ "
 
 # source the file that adds a seperator line between commands
 if [ -n "$PS1" -a -f "$HOME/.dotfiles/etc/bash_ps1.sh" ]; then
     . "$HOME/.dotfiles/etc/bash_ps1.sh"
 fi
+
+export HOMEBREW_EDITOR=vi
 
 # -------------------------------------------------------------------------
 # PATH
@@ -63,6 +66,9 @@ bind "set show-all-if-ambiguous on"  # show list automatically, without double t
 alias ..='cd ..'
 alias ...='cd .. ; cd ..'
 
+# clear, back one directory, and list contents
+alias ..l='clear ; cd .. ; ls'
+
 alias reloadbash='source ~/.bash_profile'
 
 alias stfu="osascript -e 'set volume output muted true'"
@@ -94,6 +100,11 @@ function mkd() {
 
 # open a man page in Preview.app
 pman() { man -t "${1}" | open -f -a /Applications/Preview.app; }
+
+# source my bashfunctions file to load any function I do not want to put in
+# my bashrc
+
+source ~/.dotfiles/etc/bashfunctions.sh
 
 # -------------------------------------------------------------------------
 # SMALL PROGRAMS
