@@ -1,0 +1,56 @@
+#
+# Executes commands at the start of an interactive session.
+#
+# Authors:
+#   Sorin Ionescu <sorin.ionescu@gmail.com>
+#
+
+# Source Prezto.
+if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
+  source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
+fi
+
+# Customize to your needs...
+
+# ------------------------------------------------------------------------------
+# Path Stuff
+# ------------------------------------------------------------------------------
+
+path=(
+  /usr/local/{bin,sbin}
+  $HOME/.dotfiles/bin
+  $HOME/.dotfiles/bin/todo.txt_cli
+  $path
+)
+
+# add homebrew to the completion path
+fpath=("/usr/local/bin/" $fpath)
+
+# ------------------------------------------------------------------------------
+# General Shell Options
+# ------------------------------------------------------------------------------
+
+export EDITOR="vim"
+
+
+
+# ------------------------------------------------------------------------------
+# Alias
+# ------------------------------------------------------------------------------
+
+alias ..l="clear ; cd .. ; ls" # clear, back on directory and list contents
+
+alias reloadzsh="source ~/.zshrc"   # reloads zsh configuration
+
+alias stfu="osascript -e 'set volume output muted true'" # mute all sound
+
+alias ql="qlmanage -p 2>/dev null"  # preview file using quicklook
+
+alias shroot="ssh -l root"  # quick root ssh
+
+alias ls="ls -G"            # list
+alias la="ls -Ga"           # list all, includes dotfiles
+alias ll="ls -Gl"           # long list, excludes dotfiles
+alias lla="ls -Gla"         # long list all, includes dot files
+
+
