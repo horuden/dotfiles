@@ -48,6 +48,8 @@ alias ql="qlmanage -p 2>/dev null"  # preview file using quicklook
 
 alias shroot="ssh -l root"  # quick root ssh
 
+alias deb="ssh -X debian"
+
 alias ls="ls -G"            # list
 alias la="ls -Ga"           # list all, includes dotfiles
 alias ll="ls -Gl"           # long list, excludes dotfiles
