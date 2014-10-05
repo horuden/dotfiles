@@ -3,8 +3,6 @@
 #
 # Holden Hopla <www.horuden.com> (with alot of help from the interwebz!).
 
-# the basics
-
 # -------------------------------------------------------------------------
 # SOME PRELIMINARIES
 # _________________________________________________________________________
@@ -79,9 +77,10 @@ if [ "$platform" == "darwin"* ]; then
 
     # use bash completion for homebrew
     source `brew --repository`/Library/Contributions/brew_bash_completion.sh
-#else
-#    # do something so shut shit up..
-#    echo 'h' > /dev/nul
+
+    if [ -f $(brew --prefix)/etc/bash_completion ]; then
+            . $(brew --prefix)/etc/bash_completion
+    fi
 fi
 
 # -------------------------------------------------------------------------
