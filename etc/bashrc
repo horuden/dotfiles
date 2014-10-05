@@ -6,6 +6,22 @@
 # the basics
 
 # -------------------------------------------------------------------------
+# SOME PRELIMINARIES
+# _________________________________________________________________________
+
+platform='unknown'
+
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    platform='darwin'
+elif [[ "$OSTYPE" == "linux-gnu" ]]; then
+    platform='linux'
+else
+    platform='unknown'
+    echo 'You are running an unknown platform, please update bashrc!'
+fi
+
+
+# -------------------------------------------------------------------------
 # SHELL OPTIONS
 # -------------------------------------------------------------------------
 
@@ -13,15 +29,13 @@
 unset MAILCHECK
 
 # awesome sauce command prompt!
-#PS1="┌─\[\e[01;36m\]\h\[\e[00m\]:\[\e[1;37m\]\w\[\e[0m\]]\n└─╼"
+PS1="┌─\[\e[01;36m\]\h\[\e[00m\]:\[\e[1;37m\]\w\[\e[0m\]]\n└─╼"
 #PS1=="[\u]\\$ "
 
 # source the file that adds a seperator line between commands
 if [ -n "$PS1" -a -f "$HOME/.dotfiles/etc/bash_ps1.sh" ]; then
     . "$HOME/.dotfiles/etc/bash_ps1.sh"
 fi
-
-export HOMEBREW_EDITOR=vi
 
 # -------------------------------------------------------------------------
 # PATH
@@ -58,6 +72,17 @@ bind "set show-all-if-ambiguous on"  # show list automatically, without double t
 # -------------------------------------------------------------------------
 # MAC OS X / DARWIN SPECIFIC
 # -------------------------------------------------------------------------
+if [ "$platform" == "darwin"* ]; then
+
+    # set editor for homebrew
+    export HOMEBREW_EDITOR=vi
+
+    # use bash completion for homebrew
+    source `brew --repository`/Library/Contributions/brew_bash_completion.sh
+#else
+#    # do something so shut shit up..
+#    echo 'h' > /dev/nul
+fi
 
 # -------------------------------------------------------------------------
 # ALIASES
@@ -116,8 +141,6 @@ source ~/.dotfiles/bin/bashmarks/bashmarks.sh
 # -------------------------------------------------------------------------
 # BASH COMPLETION
 # -------------------------------------------------------------------------
-
-source `brew --repository`/Library/Contributions/brew_bash_completion.sh
 
 # -------------------------------------------------------------------------
 # LS
